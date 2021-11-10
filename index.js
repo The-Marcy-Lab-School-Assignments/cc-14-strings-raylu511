@@ -9,7 +9,7 @@ function stripUpperCase(string) {
             lowerString += string[i];
         }
     }
-         // Create newString
+         // Initialize empty string that holds non uppercased letters
          // Find ascii code of A to Z
          // Iterate through string
          // If char is not between the range
